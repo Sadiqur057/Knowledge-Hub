@@ -1,17 +1,21 @@
-import './App.css'
-
+import "./App.css";
+import Blogs from "./Components/Blogs/Blogs";
+import Bookmarks from "./Components/Bookmarks/Bookmarks";
+import Header from "./Components/Header/Header";
 function App() {
-
-
   return (
     <>
-      <h1 className='bg-green-300 text-2xl font-bold'>Knowledge Hub</h1>
-      <div>
-       
+      <Header></Header>
+      <div className="md:grid grid-cols-12 w-5/6 md:w-4/5 mx-auto">
+        <div className="col-span-9">
+          <Blogs></Blogs>
+        </div>
+        <div className="col-span-3">
+          <Bookmarks></Bookmarks>
+        </div>
       </div>
-      
     </>
-  )
+  );
 }
 
-export default App
+export default App;

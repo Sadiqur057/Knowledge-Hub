@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "cover": "https://i.postimg.cc/mDYXBn21/1.jpg",
+    "title": "The Adventures of Lorem Ipsum",
+    "author": "John Doe",
+    "author_img": "https://i.postimg.cc/SK2QT6Qv/boy1.png",
+    "posted_date": "2024-03-14",
+    "reading_time": 10 ,
+    "hashtags": ["fiction", "adventure", "LoremIpsum"]
+  },
+  {
+    "id": "2",
+    "cover": "https://i.postimg.cc/vTDV31j8/2.png",
+    "title": "Cooking with AI",
+    "author": "Jane Smith",
+    "author_img": "https://i.postimg.cc/QCsXdvQ2/boy2.jpg",
+    "posted_date": "2024-03-13",
+    "reading_time": 15 ,
+    "hashtags": ["cooking", "AI", "recipes"]
+  },
+  {
+    "id": "3",
+    "cover": "https://i.postimg.cc/W31F1Fsm/3.png",
+    "title": "The Art of Programming",
+    "author": "Alan Turing",
+    "author_img": "https://i.postimg.cc/4y4rMGbx/girl1.jpg",
+    "posted_date": "2024-03-12",
+    "reading_time": 20 ,
+    "hashtags": ["programming", "algorithms", "coding"]
+  },
+  {
+    "id": "4",
+    "cover": "https://i.postimg.cc/J79NPx19/4.jpg",
+    "title": "Exploring Space",
+    "author": "Elon Musk",
+    "author_img": "https://i.postimg.cc/hP5HCHJK/girl2.jpg",
+    "posted_date": "2024-03-11",
+    "reading_time": 30 ,
+    "hashtags": ["space", "exploration", "science"]
+  }
+]
